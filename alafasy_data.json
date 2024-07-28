@@ -1,0 +1,244 @@
+[{
+    "surah_number": 1,
+    "verse_number": 1,
+    "content": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "aya_text_emlaey": "بسم الله الرحمن الرحيم",
+    "words": [
+        "بِسۡمِ",
+        "ٱللَّهِ",
+        "ٱلرَّحۡمَٰنِ",
+        "ٱلرَّحِيمِ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "بِسۡمِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_1/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "ٱللَّهِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_1/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "ٱلرَّحۡمَٰنِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_1/3.wav"
+        },
+        {
+            "word_number": 4,
+            "word": "ٱلرَّحِيمِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_1/4.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 2,
+    "content": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+    "aya_text_emlaey": "الحمد لله رب العالمين",
+    "words": [
+        "ٱلۡحَمۡدُ",
+        "لِلَّهِ",
+        "رَبِّ",
+        "ٱلۡعَٰلَمِينَ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "ٱلۡحَمۡدُ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_2/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "لِلَّهِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_2/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "رَبِّ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_2/3.wav"
+        },
+        {
+            "word_number": 4,
+            "word": "ٱلۡعَٰلَمِينَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_2/4.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 3,
+    "content": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "aya_text_emlaey": "الرحمن الرحيم",
+    "words": [
+        "ٱلرَّحۡمَٰنِ",
+        "ٱلرَّحِيمِ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "ٱلرَّحۡمَٰنِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_3/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "ٱلرَّحِيمِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_3/2.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 4,
+    "content": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+    "aya_text_emlaey": "مالك يوم الدين",
+    "words": [
+        "مَٰلِكِ",
+        "يَوۡمِ",
+        "ٱلدِّينِ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "مَٰلِكِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_4/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "يَوۡمِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_4/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "ٱلدِّينِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_4/3.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 5,
+    "content": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "aya_text_emlaey": "إياك نعبد وإياك نستعين",
+    "words": [
+        "إِيَّاكَ",
+        "نَعۡبُدُ",
+        "وَإِيَّاكَ",
+        "نَسۡتَعِينُ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "إِيَّاكَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_5/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "نَعۡبُدُ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_5/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "وَإِيَّاكَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_5/3.wav"
+        },
+        {
+            "word_number": 4,
+            "word": "نَسۡتَعِينُ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_5/4.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 6,
+    "content": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+    "aya_text_emlaey": "اهدنا الصراط المستقيم",
+    "words": [
+        "ٱهۡدِنَا",
+        "ٱلصِّرَٰطَ",
+        "ٱلۡمُسۡتَقِيمَ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "ٱهۡدِنَا",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_6/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "ٱلصِّرَٰطَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_6/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "ٱلۡمُسۡتَقِيمَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_6/3.wav"
+        }
+    ]
+},
+{
+    "surah_number": 1,
+    "verse_number": 7,
+    "content": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+    "aya_text_emlaey": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين",
+    "words": [
+        "صِرَٰطَ",
+        "ٱلَّذِينَ",
+        "أَنۡعَمۡتَ",
+        "عَلَيۡهِمۡ",
+        "غَيۡرِ",
+        "ٱلۡمَغۡضُوبِ",
+        "عَلَيۡهِمۡ",
+        "وَلَا",
+        "ٱلضَّآلِّينَ"
+    ],
+    "words_audios": [
+        {
+            "word_number": 1,
+            "word": "صِرَٰطَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/1.wav"
+        },
+        {
+            "word_number": 2,
+            "word": "ٱلَّذِينَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/2.wav"
+        },
+        {
+            "word_number": 3,
+            "word": "أَنۡعَمۡتَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/3.wav"
+        },
+        {
+            "word_number": 4,
+            "word": "عَلَيۡهِمۡ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/4.wav"
+        },
+        {
+            "word_number": 5,
+            "word": "غَيۡرِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/5.wav"
+        },
+        {
+            "word_number": 6,
+            "word": "ٱلۡمَغۡضُوبِ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/6.wav"
+        },
+        {
+            "word_number": 7,
+            "word": "عَلَيۡهِمۡ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/7.wav"
+        },
+        {
+            "word_number": 8,
+            "word": "وَلَا",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/8.wav"
+        },
+        {
+            "word_number": 9,
+            "word": "ٱلضَّآلِّينَ",
+            "audio_path": "word_by_word/alafasy/surah_1/ayah_7/9.wav"
+        }
+    ]
+}]
