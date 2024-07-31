@@ -1,5 +1,5 @@
 downloaded_audio_files
-segmented_audio_files
+wav_audio_files
 word_by_word
 word_by_word_mfcc
 one-hot.pkl
